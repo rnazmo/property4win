@@ -1,0 +1,17 @@
+# Ref:
+#   https://github.com/PowerShell/PowerShell/blob/3a584d486c55ca5abdd3a418b44d2516a16e97f7/.editorconfig
+
+root = true
+
+[*]
+charset = utf-8
+# indent_size intentionally not specified in this section
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+end_of_line = lf
+
+
+[*.ps1]
+indent_size = 4
+end_of_line = crlf # TODO: Or lf ?
