@@ -4,6 +4,10 @@ PowerShell version of the 'property' for Windows.
 
 ## TODO
 
+- lint with PSScriptAnalyzer
+  - https://github.com/PowerShell/PSScriptAnalyzer
+  - ref: [Lint PowerShell scripts with PSScriptAnalyzer 🐢 - DEV Community 👩‍💻👨‍💻](https://dev.to/ranb2002/lint-powershell-scripts-with-psscriptanalyzer-313d)
+
 TODO:
 
 ## MEMO
