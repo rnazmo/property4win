@@ -1,4 +1,5 @@
 $VERSION = 'v0.0.1'
+
 function Main {
     $LINE1 = 'property4win {0} - A tiny PowerShell script to get OS version' -f $VERSION
     $LINE2 = 'info. https://github.com/rnazmo/property4win'
