@@ -1,5 +1,7 @@
 # property4win
 
+[![Integration Test](https://github.com/rnazmo/property4win/actions/workflows/integ-test.yml/badge.svg)](https://github.com/rnazmo/property4win/actions/workflows/integ-test.yml)
+
 PowerShell version of the 'property' for Windows.
 
 ## TODO
