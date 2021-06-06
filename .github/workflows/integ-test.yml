@@ -28,5 +28,7 @@ jobs:
         run: pwd
       - name: ls
         run: ls
+      - name: Print PowerShell Edition/Version
+        run: $PSVersionTable
       - name: Run property4win
         run: .\property4win
