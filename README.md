@@ -6,9 +6,20 @@ PowerShell version of the 'property' for Windows.
 
 ## TODO
 
-- lint with PSScriptAnalyzer
-  - https://github.com/PowerShell/PSScriptAnalyzer
-  - ref: [Lint PowerShell scripts with PSScriptAnalyzer 🐢 - DEV Community 👩‍💻👨‍💻](https://dev.to/ranb2002/lint-powershell-scripts-with-psscriptanalyzer-313d)
+- [ ] Merge (cherry-pick) `prototype` branch into `main` branch
+- [ ] Lint with PSScriptAnalyzer
+  - ref:
+    - https://github.com/PowerShell/PSScriptAnalyzer
+    - [Lint PowerShell scripts with PSScriptAnalyzer 🐢 - DEV Community 👩‍💻👨‍💻](https://dev.to/ranb2002/lint-powershell-scripts-with-psscriptanalyzer-313d)
+- [ ] Setup 'How to setup development environment'
+  - [ ] Windows only? Windows+Ubuntu(<- can't pass integ-test)? **Use Docker**?
+    - Windows docker image: https://hub.docker.com/_/microsoft-windows
+  - [ ] Setup 'How to run lint on local'
+    - Install `PSScriptAnalyzer`
+    - Run it
+- [ ] Setup CI with GitHubAction:
+  - `lint`: Run on ubuntu-latest (pwsh), windows-latest (powershell, pwsh)
+  - `integ-test`: Run on windows-latest (powershell, pwsh)
 
 TODO:
 
