@@ -22,13 +22,12 @@ TODO:
 
 ## TODO
 
-- [ ] Merge (cherry-pick) `prototype` branch into `main` branch
 - [ ] Lint with PSScriptAnalyzer
   - ref:
     - https://github.com/PowerShell/PSScriptAnalyzer
     - [Lint PowerShell scripts with PSScriptAnalyzer 🐢 - DEV Community 👩‍💻👨‍💻](https://dev.to/ranb2002/lint-powershell-scripts-with-psscriptanalyzer-313d)
 - [ ] Setup 'How to setup development environment'
-  - [ ] Windows only? Windows+Ubuntu(<- can't pass integ-test)? **Use Docker**?
+  - [ ] Windows only? Windows+Ubuntu(<- can't pass integ-test)? ~~Use Docker~~?
     - Windows docker image: https://hub.docker.com/_/microsoft-windows
   - [ ] Setup 'How to run lint on local'
     - Install `PSScriptAnalyzer`
