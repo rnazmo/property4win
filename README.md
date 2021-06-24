@@ -4,6 +4,22 @@
 
 PowerShell version of the 'property' for Windows.
 
+## Run lint on local
+
+TODO:
+
+## Run lint on CI
+
+TODO:
+
+## Run integ-test on local
+
+TODO:
+
+## Run integ-test on CI
+
+TODO:
+
 ## TODO
 
 - [ ] Merge (cherry-pick) `prototype` branch into `main` branch
