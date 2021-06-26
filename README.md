@@ -4,6 +4,10 @@
 
 PowerShell version of the 'property' for Windows.
 
+## How to setup development environment
+
+TODO:
+
 ## Run lint on local
 
 TODO:
@@ -35,6 +39,7 @@ TODO:
 - [ ] Setup CI with GitHubAction:
   - `lint`: Run on ubuntu-latest (pwsh), windows-latest (powershell, pwsh)
   - `integ-test`: Run on windows-latest (powershell, pwsh)
+- [ ] Windows 11 ??
 
 TODO:
 
