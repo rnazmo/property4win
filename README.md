@@ -26,6 +26,8 @@ TODO:
 
 ## TODO
 
+- [ ] Rename the app/repository: `property4win` -> `proper7y4win`
+  - To follow the changes in the main project ([rnazmo/proper7y](https://github.com/rnazmo/proper7y))
 - [ ] Lint with PSScriptAnalyzer
   - ref:
     - https://github.com/PowerShell/PSScriptAnalyzer
